@@ -15,8 +15,6 @@
 <!---
 - 🖥️ I regulary write articles in [https://santrikoding.com](https://santrikoding.com)
 --->
-
-- ✉️ How to reach me **ridaulmaulayya@gmail.com**
 <!---
 - 👋 Hi, I’m @Vespri
 - 👀 I’m interested in ...
