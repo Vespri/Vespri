@@ -8,6 +8,15 @@
   <img align="center" alt="Kresna Vespri Wijaya Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br>
+<br>
+
+- 📖 I’m currently learning Front-end & Back-end.
+<!---
+- 🖥️ I regulary write articles in [https://santrikoding.com](https://santrikoding.com)
+--->
+
+- ✉️ How to reach me **ridaulmaulayya@gmail.com**
 <!---
 - 👋 Hi, I’m @Vespri
 - 👀 I’m interested in ...
@@ -18,3 +27,7 @@
 Vespri/Vespri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+***********************************
+
+#### Thank You-🙏🏼
