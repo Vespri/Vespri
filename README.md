@@ -2,7 +2,7 @@
 <h3 align="center">Self-taught Full Stack Developer 💻 from Indonesia</h3>
 
 <a href="https://www.linkedin.com/in/kresna-vespri-wijaya/">
-  <img align="center" alt="Kresna Vespri Wijaya LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Kresna Vespri Wijaya LinkedIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/kresna_vespri/">
   <img align="center" alt="Kresna Vespri Wijaya Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
