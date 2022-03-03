@@ -14,7 +14,7 @@
 <br>
 <br>
 
-- 📖 I’m currently learning Front-end & Back-end.
+- 📖 I’m currently learning Go.
 <!---
 - 🖥️ I regulary write articles in [https://santrikoding.com](https://santrikoding.com)
 --->
