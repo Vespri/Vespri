@@ -14,7 +14,7 @@
 <br>
 <br>
 
-- 📖 I’m currently learning Go and Python.
+- 📖 I’m currently learning API with GO
 <!---
 - 🖥️ I regulary write articles in [https://santrikoding.com](https://santrikoding.com)
 --->
