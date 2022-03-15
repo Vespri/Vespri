@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kresna Vespri Wijaya</h1>
-<h3 align="center">Self-taught Full Stack Developer 💻 from Indonesia</h3>
+<h3 align="center">Software Engineer 💻 from Indonesia</h3>
 
 <a href="https://codepen.io/JustTyper">
   <img align="left" alt="Kresna Vespri Wijaya | Codepen" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
