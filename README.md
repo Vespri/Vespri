@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kresna Vespri Wijaya</h1>
 <h3 align="center">Software Engineer 💻 from Indonesia</h3>
+<h5 align="center">The Best Way to learn something is to Understand the principle, not Memorize it</h5>
 
 <a href="https://codepen.io/JustTyper">
   <img align="left" alt="Kresna Vespri Wijaya | Codepen" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
