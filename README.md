@@ -15,7 +15,7 @@
 <br>
 <br>
 
-- 📖 I’m currently studying about Javascript, etc.
+- 📖 I’m currently exploring php & Go APIS.
 <!---
 - 🖥️ I regulary write articles in [https://santrikoding.com](https://santrikoding.com)
 --->
